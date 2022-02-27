@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mid-nights vvatch, or, Robin Good-fellow his serious observation; wherein is discovered the true state and strength of the kingdome as at this day it stands without either faction or affaction.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89128</idno>
+            <idno type="STC">Wing M2000</idno>
+            <idno type="STC">Thomason E89_9</idno>
+            <idno type="STC">ESTC R12331</idno>
+            <idno type="EEBO-CITATION">99859260</idno>
+            <idno type="PROQUEST">99859260</idno>
+            <idno type="VID">111331</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89128)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111331)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E89[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mid-nights vvatch, or, Robin Good-fellow his serious observation; wherein is discovered the true state and strength of the kingdome as at this day it stands without either faction or affaction.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Lindsey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "feb: 11th 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111331:1"/>
+            <pb facs="tcp:111331:1" rendition="simple:additions"/>
+            <p>THE MID-NIGHTS WATCH, OR <hi>ROBIN GOOD-FELLOW</hi> His ſerious Obſervation; <hi>Wherein is diſcovered the true ſtate and ſtrength of the Kingdome as at this day it ſtands without either Faction or Affaction.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>George Lindſey,</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111331:2"/>
+            <pb facs="tcp:111331:2"/>
+            <head>The Midnights watch.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He harmleſſe ſpirit and the merry, commonly knowne to the world by the name of <hi>Robin Good-fellow,</hi> having told his Fairy miſtreſſe of fleering upon ſtrangers Elves, and the tickling of her noſe with her petulant finger, and receaving but frownes for his favours and checks for his coun<g ref="char:EOLhyphen"/>ſailes he grew weary of her ſervice, and being as light of love as he was of care he reſolved to viſit her no more. The troubles and commotions in the upper world had wrought his thoughts another way, and in a ſerious humour one night he reſolved to goe abroad, to obſerve the new courſes and alterations of the world.</p>
+            <p>The firſt place he came at was Windſor, where he found a good part of the Army newly come from Redding, he heard them talke as confi<g ref="char:EOLhyphen"/>dent of victory as if they had killed the Cavaliers already, he much ad<g ref="char:EOLhyphen"/>mired the underſtanding and reſolution of their Generall, and da<g ref="char:EOLhyphen"/>ring not ſtay there any longer for feare he ſhould be taken for a Malig<g ref="char:EOLhyphen"/>nant and be whipt, he made a ſwift diſpatch for Oxford, yet not farre from Windſor he met at the townes end many Sentinells and incounte<g ref="char:EOLhyphen"/>red ſome Courts of Guard, though they were men of warre he heard them much to deſire peace, and freezing in the cold, <hi>Robin</hi> could not chuſe but laugh, to heare them comfort one another by boaſting in what hot ſervice they had been.</p>
+            <p>When he came to Oxford, the firſt place he ventured into was St. <hi>Maries</hi> Church, where indeed he found a Convocation of many reve<g ref="char:EOLhyphen"/>rend heads, ſome whereof had lately departed from London for their conſciences ſake, and eſteemed the freedome of their minds of a greater
+<pb facs="tcp:111331:3"/>conſequence then their Revenues: they much lamented the iniquity of the times, and wiſht indeed (if they could be found) that abler and more learned men might ſupply their deſerted places. <hi>Robbin</hi> wondred at the gravity of the men, who with great wiſdome and moderation were diſ<g ref="char:EOLhyphen"/>courſing amongſt themſelves from whence the firſt cauſe of theſe di<g ref="char:EOLhyphen"/>ſtempers did ariſe, and ſome imputing it to this, and ſome to that, <hi>Rob<g ref="char:EOLhyphen"/>bin</hi> departing from them three times, ſneezed out aloud, Biſhop, Bi<g ref="char:EOLhyphen"/>ſhop, Biſhop.</p>
+            <p>From thence he came to Chriſtchurch where he found a pack of cunning heads aſſembled together, theſe were men of another temper, and indeed they were the <hi>ottachouſticons</hi> of the Kings, Who whiſpered into his ſacred eares all the ill counſells that they had contrived, Thoſe were they that poſſeſſed him with impoſſible things, and induced him to believe them. They would tell him of great battels which were ne<g ref="char:EOLhyphen"/>ver fought, wherein he had the victory, and ſome conqueſts were told him to be atchieved by the Parliament wherein he received no loſſe at all. A band or two of men, have paſſed for a whole Army, and a Liter on the <hi>Thames</hi> for a whole fleet at Sea. <hi>Robbin</hi> much wondred that they being ſo neare unto him the influence of ſo Sacred a Majeſty could work no better impeſſion in their ſoules; and drawing neare unto the bed chamber he found His Majeſty though in theſe diſtracted times yet full of native conſtancy, and tranquillity of mind, and ſecured better by his innocence then his Guard. With much Joy and Renowne he departed thence, and obſerving as he went (for it was paſt midnight) many a looſe wench, in the armes of many of the Cavaliers, he gave every wench as he paſſed by a blue and ſecret nip on the arm without awake<g ref="char:EOLhyphen"/>ning her. He heard amongſt the Sentinells, as he was departing from <hi>Oxford</hi> of a great victory obtained by one Sir <hi>Ralph Hopton</hi> againſt a part of the Parliaments forces, wherein the Earle of <hi>Stamfords</hi> regi<g ref="char:EOLhyphen"/>ments were ſaid to be quite routed, many of his Souldiers ſlaine, many taken priſoners and great ſtore of Armes, and Ammunition with them, amongſt which a great braſſe piece on which the Crown and the Roſe were ſtampt, was moſt remarkable. <hi>Robbin</hi> had a great deſire to go thi<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:111331:3"/>himſelf, and to juſtifie the truth of ſo abſolute a Victory. He had not gone as farre as <hi>Euſham,</hi> but he eſpied the nine Muſes in a Vinten ers Porch crouching cloſe together, and defending themſelves as well as they could from the cold viſitation of the Winters night. They were extream poore, and (which is moſt ſtrange) in ſo ſhort an abſence and di<g ref="char:EOLhyphen"/>ſtance from <hi>Oxford</hi> they were grown extreamly ignorant, for they took him for their <hi>Apollo,</hi> and craved his Power and Protection to ſupport them. <hi>Robbin</hi> told them they were much miſtaken in him, for though he was not mortal he was but of middle birth no more then hey, they be<g ref="char:EOLhyphen"/>ing the daughters of Memorie, &amp; he the ſon of Mirth, but he bade them take comfort for that now in <hi>Oxford</hi> there was ſure news of Peace and a ſpeedy hope of their return to their diſcontinued habitations: at this they ſeemed with much Joy to rouſe up themſelves, and did aſſure him that if what he reported did prove true, they would ſing his praiſes throughout all generations. The Elf proud of ſuch a favour in the name of <hi>Oberon</hi> did thank them, and did conjure them to perform it, and in the twinkling of an eye he conveyed himſelf to <hi>Salt-Aſh</hi> in <hi>Cornwall,</hi> where Sir <hi>R. Hoptons</hi> forces were quartred. He found the defeat given to the Earle of <hi>Stamford</hi> nothing ſo great as Fame in <hi>Oxford</hi> confirmed it to be. Collonell <hi>Ruthens</hi> regiment indeed was ſorely ſhaken, and ſome of his men ſlain, and many taken priſones. With a curious eye he ob<g ref="char:EOLhyphen"/>ſerved what Arms and Ammunition were taken, and above all he had a labouring deſire to ſee the braſſe piece with the Crowne and the Roſe on it, which ſo much dignified his conqueſt: he ſearched up and down the Army, and in and about the Magazine but he could not find it. At length deſpairing of what he looked for, the venterous Elfe came into Sir <hi>Ralphs</hi> chamber, and finding him aſleepe, and ſafe as Wine and In<g ref="char:EOLhyphen"/>nocence, he dived into his pocket, and the firſt thing he took out, hee found to beare the impreſſion of the Roſe and Crowne, and it was a brave piece indeed, for it was a farthing token which was all peradven<g ref="char:EOLhyphen"/>ture that was in it. <hi>Robbin</hi> aſhamed to ſee himſelf ſo deluded could not at the firſt but ſmile at the conceit, and putting it into its Magazine re<g ref="char:EOLhyphen"/>penting himſelf of his journey, he did ſwear that he would never truſt
+<pb facs="tcp:111331:4"/>Fame, nor Pamphlet more, though printed in a thouſand Univerſities.</p>
+            <p>From thence with much indignation, and more ſpeed he flung away, and in a moment placed himſelfe at Briſtoll, where he found the face of things juſt like the aire of an April morning, it ſmiled and it rained both at once, ſome were greedy of peace, and ſome againe were as ea<g ref="char:EOLhyphen"/>ger of war; here ſome ſtood for the King, there others for the Parlia<g ref="char:EOLhyphen"/>ment, the greater number was for the one ſide, but the better for the other. The husband was divided againſt the wife, the ſiſter againſt the brother, and the ſon lifting forbidden hands againſt the father. <hi>Robin</hi> beholding ſo ſtrange a diviſion amongſt people ſo neer in blood, wiſhed himſelfe againe in Fairy Land; for ſaid he, we have no ſuch dinne, no ſuch tumults, nor unnaturall quarrels, but all ſilence and oblivion and a perpetuall peace. And quickly abandoning the place, he in an inſtant came into <hi>Gloceſterſhire,</hi> to a Towne called <hi>Tedbury,</hi> where the more to increaſe his miſery he met with the ſpirit of faction and diſtempered zeale. This was the ſpirit that was accuſtomed to make a great hubbub in the Churches to teare off the Surplice from the Miniſters ſhoulders, and when the children were to be ſigned with the ſigne of the Croſſe (like a Divell diſpoſſeſſed) to teare himſelfe for fury, and with great noyſe and foaming to runne out of the Temple. This ſpirit would faine have perſwaded <hi>Robin</hi> to turne <hi>Roundhead,</hi> and told him that they were the beſt ſort of Chriſtians: I, replyed <hi>Robin,</hi> that is even as true as God is in <hi>Gloceſterſhire.</hi> As he was proceeding in his diſcourſe, he was inter<g ref="char:EOLhyphen"/>cepted by a great noyſe and tumult of people, who cried out, flye, flye, flye. Amazed at the ſuddenneſſe of the cry, and the multitudes of the people that came thronging by; he looked about him to underſtand what the buſineſſe was, he found it a company of people, whom flying from <hi>Cirenceſter,</hi> the ignorant fury of the ſword had ſpared. Prince <hi>Rupert</hi> had newly entred the Towne, and having thrice ſummoned it, and they refuſing to yeeld it into his hands, he ſeized on it by violence, and on his firſt entrance he burned a great part of the Towne, the ſhot from the windowes by the Muskets of the Towne did wonderfully an<g ref="char:EOLhyphen"/>noy his men, and he found no better meanes to prevent that miſchiefe,
+<pb facs="tcp:111331:4"/>but by ſetting fire on the houſes, there was a great overthrow, and Colonell <hi>Carre,</hi> and Colonell <hi>Maſſey,</hi> two chiefe Commanders for the Parliament, were either ſlaine, or deſperately wounded. <hi>Robin</hi> found this Prince to be a Gentleman of himſelfe of a civill and ſerious diſpo<g ref="char:EOLhyphen"/>ſition, a man few in words, and very little beholding to Fame for the many ſtrange reports he had delivered of him; affrighted at the thun<g ref="char:EOLhyphen"/>der of his Armes, <hi>Robin</hi> diſpatched himſelfe from him with as much ſpeed as the bullets flew from the mouth of his angry Canons, and on the firſt ſummons of the Cocke hee came to <hi>Newarke,</hi> where either through feare of ſome new deſigne upon them, or through ſome great cold they had taken, he found every man of the Earle of <hi>Newcaſtles</hi> garriſon ſouldiers to be ficke of a Palſey: loath to continue amongſt thoſe craſie people, with an invitive diſpatch hee came to <hi>Pontefract,</hi> where he found the Earle of <hi>Newcaſtle</hi> with the greateſt part of his Ar<g ref="char:EOLhyphen"/>mie gone towards <hi>Yorke,</hi> not ſo much through feare as it was ſuggeſted, but for complement rather, and to entertaine the Queene of <hi>England,</hi> who was expected to be either at <hi>Newcaſtle,</hi> or at <hi>Yorke.</hi> He found the Army of the Recuſants, though in many combats ſhaken and ſcattered, yet not to receive ſo great an overthrow as many tongues too credu<g ref="char:EOLhyphen"/>louſly have voiced it.</p>
+            <p>Neither did he find in <hi>York</hi> Maſſe to be ſaid in every Church, it being croſſe to the method of the cloſe and ſubtill generation of the Papiſts to make a publick profeſſion of their Religion before they had fully perfected their intentions and by the ſtrength of Authority made both the ends of their deſignes to meet together. Howſoever it being diſ<g ref="char:EOLhyphen"/>covered that the Warre which was pretended, for the maintaining of the Kings Prerogative tended now indeed to the innovation of Religi<g ref="char:EOLhyphen"/>on, and to make the Papiſts appeare the Kings beſt Subjects, it hath turned many hearts and armed many hands againſt them. The newes of the Queens landing made <hi>Robbin</hi> ſo brisk, and ſo overcharged him with newes, that being as unable to contain it, as he was greedy to receive it, he could not take a full ſurvay of Yorke, nor had the leiſure to go unto <hi>Newcaſtle</hi> to diſcover what good ſervice thoſe foure ſhips have done to
+<pb facs="tcp:111331:5"/>hinder any malignant veſſells that come either from <hi>Holland</hi> or from <hi>Denmark</hi> from landing at Newcaſtle; a mad vagary tooke him to come up to <hi>London,</hi> which the vagabond elſe performed with ſuch a ſudden<g ref="char:EOLhyphen"/>neſſe, that could he be diſcovered in his way, he would have proved rather the object of the memory then of the eye. The firſt place hee came into, it was a Conventicle of the Family of Love, it was then much about two of the clock in the morning, and the Candles being put out, they were going from one exerciſe unto another. <hi>Robbin</hi> preſented him<g ref="char:EOLhyphen"/>ſelf before them all, and ſeemed luſty as the ſpirit of youth when it is newly awakened from the mornings ſleep; the women were well con<g ref="char:EOLhyphen"/>tented to ſtay, but the men cryed out, a Satyre, a Satyre, a Satyre, and thruſting them before them all tumbling headlong down the ſtaires to<g ref="char:EOLhyphen"/>gether, they left him laughing to himſelf alone.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
